@@ -4,6 +4,8 @@ A simple command-line task management application for tracking your to-do list.
 
 Простое консольное приложение для управления задачами и списком дел.
 
+https://roadmap.sh/projects/task-tracker
+
 ## About / О проекте
 
 This project was created for learning Python programming. It demonstrates basic concepts of CLI application development, file handling, and object-oriented programming.
