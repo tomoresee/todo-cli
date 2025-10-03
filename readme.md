@@ -25,7 +25,7 @@ This project was created for learning Python programming. It demonstrates basic 
 ### Setup:
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tomoresee/todo-cli.git
    cd todo_cli
    ```
 
